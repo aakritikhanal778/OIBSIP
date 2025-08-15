@@ -23,7 +23,7 @@ Demonstrate how **SQL Injection (SQLi)** vulnerabilities can be exploited in a w
 - `admin' #`
 
 ## Files in This Folder
-- **sql_injection_report.pdf** – Detailed procedure, commands, payloads used, and explanations.
+- **sql_injection_report.pdf ie. internship_task_3** – Detailed procedure, commands, payloads used, and explanations and screenshots.
 - **screenshots/** – Folder containing attack demonstration screenshots.
 - **demo-video-link.txt** – Google Drive link to the SQL Injection demo video.
 
@@ -37,5 +37,5 @@ Demonstrate how **SQL Injection (SQLi)** vulnerabilities can be exploited in a w
   - Use web application firewalls (WAF).
 
 ## Demo Video
-📹 [Click here to watch the demonstration]()
+📹 [Click here to watch the demonstration](https://drive.google.com/file/d/1BUm15RvoUHlJQ8FI5svdOlMlsLSmBPcK/view?usp=sharing)
 
